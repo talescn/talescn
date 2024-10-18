@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarmesP)](https://github.com/TarmesP/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarmesP&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarmesP&layout=compact&theme=dark#gh-dark-mode-only)
 
 
 <!---
