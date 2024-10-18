@@ -10,6 +10,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarmesP&layout=compact&theme=dracula)
 
+<a href="https://github.com/TarmesP/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TarmesP" />
+</a>
+<a href="https://github.com/TarmesP/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TarmesP&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
 <!---
 TarmesP/TarmesP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
