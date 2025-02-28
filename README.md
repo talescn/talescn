@@ -4,6 +4,7 @@
 | ------------- | ------------- |
 
 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 💡 Passionate about Data Science, AI, and Software Development  
 📚 Computer Science student, always learning and building projects  
