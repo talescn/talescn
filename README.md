@@ -6,10 +6,11 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
-💡 Passionate about Data Science, AI, and Software Development  
-📚 Computer Science student, always learning and building projects  
-🚀 Open to collaborations and opportunities in Data & AI  
+- 💡 Passionate about Data Science, AI, and Software Development  
+- 📚 Computer Science student, always learning and building projects  
+- 🚀 Open to collaborations and opportunities in Data & AI  
 
+<br>
 
 💻 **Languages**  
 Python, C#, JavaScript  
